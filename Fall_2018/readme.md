@@ -15,7 +15,7 @@
  - [ ] Chi, Vicky
  - [x] Chong, Tim
  - [ ] Clayton, Daniel
- - [X ] Cooper, Brett :tree:
+ - [x] Cooper, Brett
  - [ ] Cornejo, Ricky
 - [ ] Crestani, Ryan
 - [ ] Czymoch, Maximilian
